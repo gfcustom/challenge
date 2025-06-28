@@ -10,12 +10,12 @@ Se podrían optimizar queries con índices compuestos en Mongo (p.ej. fecha + em
 
 Para levantar:
 
-Clonar repo
-Instalar dependencias
-Configurar .env
-Levantar MongoDB local
-node src/api/app.js
-Test con npm test (jest)
+-Clonar repo
+-Instalar dependencias
+-Configurar .env
+-Levantar MongoDB local
+-node src/api/app.js
+-Test con npm test (jest)
 
 WORKSPACE postman web público:
 https://web.postman.co/9e9ec6ef-b068-4fa0-ba8e-9b006cf1cda3
